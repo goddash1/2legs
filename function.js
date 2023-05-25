@@ -21,7 +21,7 @@ const secret = 'nhYFNjbVKLfNGElt5blyDIMQWz4bCfho66uYSE4JakDX58Ri5ZUBW0i9l3L9aTP0
 //   TTL: 999,
 //   webhookURL: "https://webhook.site/c7e3b35d-3e0b-42e7-a46b-e51b98e865c4",
 //   extra: {
-//     comment: "2legs",
+//     comment: "KrossBeri",
 //     allowedPaymentTypeIDs: [
 //       3
 //     ],
